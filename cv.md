@@ -1,10 +1,10 @@
 # Oleg Larionov
 ## Contact information:
 
-**Phone:**8-951-895-666-5
-**E-mail:** Olegin2407@yandex.ru
-**Telegram:** Architector_116
-**VK:** Olegin77
+* ** Phone: **8-951-895-666-5
+* ** E-mail: ** Olegin2407@yandex.ru
+* ** Telegram: ** Architector_116
+* ** VK: ** Olegin77
 
 ## About me
 
