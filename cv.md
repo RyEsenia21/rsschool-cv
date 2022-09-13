@@ -7,13 +7,13 @@
 * Telegram:  Architector_116
 * VK:  Olegin77
 
-## About me
+## About me:
 
 The student of school 21 from Sbera with the developed communicative skills, active life position, purposeful, persistent, hardworking, I love and know how to work in a team, I take an active part in the life of the team, as well as in projects in the areas of their competencies.
 
-## Skills
+## Skills:
 
-* HTML, CSS   | Upper Intermediate |
+* HTML5, CSS3   | Upper Intermediate |
 * JavaScript  | Intermediate |
 * React       | Pre Intermediate |
 * C           | Upper Intermediate |
@@ -21,7 +21,7 @@ The student of school 21 from Sbera with the developed communicative skills, act
 * C#          | Elementary |
 * Python Django | Elementary |
 
-## Technology 
+## Technology:
 
 * Version control: Git (remote service GitHub)
 * Figma(for web development)
@@ -30,13 +30,22 @@ The student of school 21 from Sbera with the developed communicative skills, act
 * Jira
 * Docker
 
-## Education
+## Code Examples:
+
+### A function that takes a string and removes all vowels! Y-not to be taken into account.
+
+``` function disemvowel(str) {
+  return str.replace(/[aeiou]/gi, '');
+} 
+```
+
+## Education:
 
 * КВВАКУ ИМ. ЧИСТЯКОВА : (2006-2011) -  Electromechanical Engineer
 * РАНХИГС : (2009-2015) - State and municipal administration
 * SCHOOL 21 KAZAN / L'ECOLE 42 : (2021 - now)
 
-## Experience
+## Experience:
 
 * 6 months internship in the team SberBank
 ---
@@ -52,3 +61,8 @@ The student of school 21 from Sbera with the developed communicative skills, act
 * PISCINE PYTHON DJANGO (PYTHON, HTML, CSS) - 112% IMPLEMENTED;
 * MODULE_CPP (C++) - THE PROJECT IS AIMED AT LEARNING THE C++ LANGUAGE, WORKING WITH CLASSES, THE CONSTRUCTOR, ETC;
 * IN_THE_SHADOW (C#) - THE PROJECT IS AIMED AT DEVELOPING THE GAME, CLOSE TO SHADOWMATIC, BUT WITH FEWER LEVELS.
+
+## Languages:
+
+* Russian
+* English (Intermediate)
