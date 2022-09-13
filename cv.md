@@ -34,7 +34,8 @@ The student of school 21 from Sbera with the developed communicative skills, act
 
 ### A function that takes a string and removes all vowels! Y-not to be taken into account.
 
-``` function disemvowel(str) {
+```
+ function disemvowel(str) {
   return str.replace(/[aeiou]/gi, '');
 } 
 ```
