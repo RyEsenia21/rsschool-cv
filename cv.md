@@ -1,10 +1,11 @@
 # Oleg Larionov
+## Junior Frontend Developer
 ## Contact information:
 
-* ** Phone: **8-951-895-666-5
-* ** E-mail: ** Olegin2407@yandex.ru
-* ** Telegram: ** Architector_116
-* ** VK: ** Olegin77
+* Phone: 8-951-895-666-5
+* E-mail:  Olegin2407@yandex.ru
+* Telegram:  Architector_116
+* VK:  Olegin77
 
 ## About me
 
@@ -18,7 +19,7 @@ The student of school 21 from Sbera with the developed communicative skills, act
 * C           | Upper Intermediate |
 * C++         | Elementary |
 * C#          | Elementary |
-Python Django | Elementary |
+* Python Django | Elementary |
 
 ## Technology 
 
@@ -28,3 +29,16 @@ Python Django | Elementary |
 * BitBucket
 * Jira
 * Docker
+
+## Education
+
+** КВВАКУ ИМ. ЧИСТЯКОВА : (2006-2011) -  Electromechanical Engineer
+** РАНХИГС : (2009-2015) - State and municipal administration
+** SCHOOL 21 KAZAN / L'ECOLE 42 : (2021 - now)
+
+## Experience
+
+* 6 months internship in the team SberBank
+---
+
+* COMPLETED TRAINING PROJECTS:
