@@ -22,12 +22,12 @@ The student of school 21 from Sbera with the developed communicative skills, act
 
 ## Technology:
 
-* Version control: Git (remote service GitHub)
-* Figma(for web development)
-* WebStorm, PyCharm,  VSCode, VIM
-* BitBucket
-* Jira
-* Docker
+* Version control: Git (remote service GitHub);
+* Figma(for web development);
+* WebStorm, PyCharm,  VSCode, VIM;
+* BitBucket;
+* Jira;
+* Docker;
 
 ## Code Examples:
 
